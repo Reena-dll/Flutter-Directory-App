@@ -1,0 +1,51 @@
+[
+ {
+    "kisiID": 1,
+    "kisiAd": "Oğuzhan Sadıkoğlu",
+    "kisiDepartman": "Yazılımcı",
+    "kisiUlasim": "oguzhan_gfb_99@hotmail.com",
+    "kisiFoto": "https://scontent.fist13-1.fna.fbcdn.net/v/t1.0-9/117623324_2096688800474724_9140346428723872721_o.jpg?_nc_cat=102&_nc_sid=730e14&_nc_ohc=oxrIMI-aPKgAX8jwOH0&_nc_ht=scontent.fist13-1.fna&oh=510a807c684a96e04b37ed2473f52f2d&oe=5F623D8B",
+    "kisiHakkinda": "Yazılım dalında bir çok projesi bulunmakta. C# ve Flutter eğitimleri son derece mükemmel. Bizimle birlikte 5 yıldır çalışan yazılımcımız ona gelen bütün işlerini zamanında bitirmiştir."
+  },
+  {
+    "kisiID": 2,
+    "kisiAd": "Ahmet Sadıkoğlu",
+    "kisiDepartman": "Görevli",
+    "kisiUlasim": "ahmetsadikoglu977@gmail.com",
+    "kisiFoto": "https://scontent.fist13-1.fna.fbcdn.net/v/t31.0-8/18156514_1748710575145719_795463594285957389_o.jpg?_nc_cat=105&_nc_sid=a9b1d2&_nc_ohc=2A6XlTEbo7wAX-b0iab&_nc_ht=scontent.fist13-1.fna&oh=44402aed0e5f85f6e3b9b6fc3300d9e0&oe=5F620317",
+    "kisiHakkinda": "İş yerimizde ki bir çok detayı inceleyen çalışanımız. Bilgisayar donanımsal ve yazılımsal sorun uzmanı. Kendisi bizimle 4 yıldır çalışmakta olup her işi başarıya taşımıştır."
+  },
+  {
+    "kisiID": 3,
+    "kisiAd": "Kadir Sadıkoğlu",
+    "kisiDepartman": "Grafiker",
+    "kisiUlasim": "okarawn@gmail.com",
+    "kisiFoto": "https://scontent.fist13-1.fna.fbcdn.net/v/t1.0-9/74685223_2992907887395298_7157809439712477184_o.jpg?_nc_cat=102&_nc_sid=09cbfe&_nc_ohc=UdFb3aJMDY0AX_DDywr&_nc_ht=scontent.fist13-1.fna&oh=22a0da5b34d256b78796d90a3de78384&oe=5F6281DA",
+    "kisiHakkinda": "Grafik konusunda şirketimizi bir adım daha yukarıya taşıyan çalışanımız bizimle birlikte 4. yılını doldurdu. Reklam tasarımlarımız onsuz olmaz, üst düzey banner çalışmaları logo tasarımları ile dikkat çekiyor."
+  },
+  {
+    "kisiID": 4,
+    "kisiAd": "Metehan Sadıkoğlu",
+    "kisiDepartman": "Grafiker2",
+    "kisiUlasim": "rizelimete53@hotmail.com",
+    "kisiFoto": "https://scontent.fist13-1.fna.fbcdn.net/v/t1.0-9/996777_134378936936194_2925302658505521157_n.jpg?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=0b7gRXSx1_EAX_oIkdV&_nc_ht=scontent.fist13-1.fna&oh=659be5ab123321dd6ddd7d016efdd173&oe=5F624FE7",
+    "kisiHakkinda": "Grafikerimizin resmi stajyeri konumunda çalışmakta olup kendisini çok hızlı bir şekilde geliştirdiğini görebiliyoruz."
+  },
+  {
+    "kisiID": 5,
+    "kisiAd": "Mesut Sarıhan",
+    "kisiDepartman": "Yazılımcı",
+    "kisiUlasim": "mesutsarhan@hotmail.com",
+    "kisiFoto": "https://scontent.fist13-1.fna.fbcdn.net/v/t1.0-9/31956964_1820893237998587_7228310249839525888_n.jpg?_nc_cat=101&_nc_sid=a4a2d7&_nc_ohc=di6UiSWjUBgAX_Po8Fj&_nc_ht=scontent.fist13-1.fna&oh=c3badc8a640f53353035a0bb6dbd9bfd&oe=5F63DA97",
+    "kisiHakkinda": "Yazılımcımızın resmi stajyeri konumunda çalışmakta olup kendisini çok hızlı bir şekilde geliştirdiğini görebiliyoruz."
+  },
+  {
+    "kisiID": 6,
+    "kisiAd": "Reena Sadıkoğlu",
+    "kisiDepartman": "Yazılımcı",
+    "kisiUlasim": "okarawn1@gmail.com",
+    "kisiFoto": "https://scontent.fist13-1.fna.fbcdn.net/v/t1.0-9/33347209_1347405242069754_2143768535648698368_o.jpg?_nc_cat=105&_nc_sid=174925&_nc_ohc=Fh817wsEH6MAX8MgOFS&_nc_ht=scontent.fist13-1.fna&oh=124b6ffbcf294f1954bb625c335d033c&oe=5F62F514",
+    "kisiHakkinda": "PATRON. Bu işin patronu ve iş yürürlüğünü üstüne alan kişi. Olmazsa olmaz."
+  }
+  
+]
