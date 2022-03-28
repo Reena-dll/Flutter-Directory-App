@@ -1,16 +1,41 @@
-# rehberapp
+# Flutter Dart Şirket Rehber Uygulaması
 
-A new Flutter application.
+Bu uygulamam da bir firmanın rehberini tutmak istedim. Firma Rehberi olan uygulamam da kişilerin departmanı, hakkında kısmı, isim soy isim ve
+ulaşım bilgilerinin barındığı bölümler mevcuttur. Bu uygulama da Firma da çalışan bütün herkesi JSON veri olarak internetten çekiyorum.
+Uygulamam da Yükleniyor ekranları dışında 3 tane sayfa bulunmaktadır.
+Fotoğrafları Hızlı Resime yükleyip JSON verilerine o linkleri girdim.
+JSON verisinde kişilerin adı soyadı, mail adresleri, Hakkında yazısı ve de Departmanı bulunmakta.
+Mail Gönderme sayfasında kime tıkladıysak onun maili geliyor ve İsmimizi-konumuzu-mesajımızı yazdıktan sonra Gönder butonuna tıklandıktan sonra
+o kullanıcıya şirket tarafından mail yollanılıyor.
+Bütün kodların açıklama satırları bulunmaktadır ****
 
-## Getting Started
+Uygulamanın tam hali için;
 
-This project is a starting point for a Flutter application.
+### Benimle İletişime Geç
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oguzhansadikoglu/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oguzhansadikoglu/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ouz.spy#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ouz.spy#gh-dark-mode-only)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Tasarım 
+
+
+![Test Image 2](./img/Screenshot_1.jpg)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_2.jpg)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_3.png)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_4.png)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_5.png)
+&nbsp;&nbsp;
+![Test Image 2](./img/Screenshot_6.png)
+&nbsp;&nbsp;
+
+
